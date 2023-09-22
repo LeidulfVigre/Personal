@@ -8,3 +8,7 @@ Created on Fri Sep 22 13:33:06 2023
 
 for i in range(1,11): 
     print(i**2)
+    
+    # Tester om dette går;)
+    while(True):
+        print("LOL!")
